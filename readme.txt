@@ -5,9 +5,13 @@ Here the 'your' inside the quotes needed to be the same to conserve the meaning 
 
 implemented features:
  - get your ass to work
-
-current worked on objectives/features:
  - be able to replace multiple words quickly
  - avoid replacing occurences that meet certain conditions
+
+current worked on objectives/features:
  - a simple ui to input the replacable words
  - delete words/strings that meet certain conditions
+
+bugs:
+ - wont work if the condition for noreplacment is a single word or alone. eg " won't but "hi will
+ - wont work if the condition for noreplacment is inbetween a word
